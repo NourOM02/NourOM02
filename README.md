@@ -5,6 +5,7 @@
 </p>
 
 <hr />
+### Hi there 👋 !
 
 I am fascinated by the different domains of AI. As I delve deeper into AI, I find myself gaining a better understanding of humans, as AI is inspired by our own capabilities. I love the fact that specializing in AI does not limit my knowledge to only this field; instead, AI's applications extend to 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 ! <br />
 I like to organize my things and have a vision about the future, whether it's my bedtime or my next professional step.
