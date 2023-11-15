@@ -1,6 +1,8 @@
 ![Banner](https://github.com/NourOM02/NourOM02/blob/main/top.png)
 
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Glory+medium&pause=500&color=808080&center=true&width=435&lines=Artificial+Intelligence+Student;Interested%20in;Data+science;Computer%20vision;AI%20in%20general%20:D" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **NourOM02/NourOM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
