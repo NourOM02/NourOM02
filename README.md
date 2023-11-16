@@ -32,6 +32,9 @@ I am also a medium member who like to write about AI specifically, and computer 
 <img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" alt="HADOOP" height="25" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" height="25" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="DOCKER" height="25" style="vertical-align:top; margin:4px">
+<img src="https://prod-backend-company-uploads-transcend-io.s3.amazonaws.com/8d6dc27b-6eef-4afc-8e75-1e1ac922e35f/e8d51866-cab8-4ea9-9ab7-b72dea449a4f" alt="ANACONDA" height="25" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" alt="CUDA" height="25" style="vertical-align:top; margin:4px">
+
 </p>
 
 ### 📄 My latest article !
