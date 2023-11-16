@@ -12,10 +12,11 @@ I am also a medium member who like to write about AI specifically, and computer 
 
 ### 🔗 Connect with me !
 <p>
-<a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><i class="fa-brands fa-linkedin"></i>Nour Oulad Moussa</a>
+<a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><i class="fa-brands fa-linkedin"></i></a>
 <span style="margin-left:15 px:"></span>
 <a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><i class="fa-brands fa-linkedin"></i>Nour Oulad Moussa</a>
 </p>
+
 ### ⚙️ Programming languages and tools !
 
 <p>
