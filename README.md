@@ -10,6 +10,12 @@ I am a final-year student majoring in AI 🤓 I am fascinated by the different d
 I like to organize my things 🤓 and have a vision about the future 👁️, whether it's my bedtime or my next professional step 🙂.<br />
 I am also a medium member who like to write about AI specifically, and computer science generally ⌨️
 
+### 🔗 Connect with me !
+<p>
+<a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><i class="fa-brands fa-linkedin"></i>Nour Oulad Moussa</a>
+<span style="margin-left:15 px:"></span>
+<a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><i class="fa-brands fa-linkedin"></i>Nour Oulad Moussa</a>
+</p>
 ### ⚙️ Programming languages and tools !
 
 <p>
