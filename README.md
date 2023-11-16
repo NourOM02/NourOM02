@@ -12,8 +12,10 @@ I am also a medium member who like to write about AI specifically, and computer 
 
 ### ⚙️ Programming languages and tools !
 
+<p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="25" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Python" height="25" style="vertical-align:top; margin:4px">
+</p>
 
 ### 📄 My latest article !
 
