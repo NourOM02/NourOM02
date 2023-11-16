@@ -10,6 +10,10 @@ I am a final-year student majoring in AI 🤓 I am fascinated by the different d
 I like to organize my things 🤓 and have a vision about the future 👁️, whether it's my bedtime or my next professional step 🙂.<br />
 I am also a medium member who like to write about AI specifically, and computer science generally ⌨️
 
-### 📄 My latest articles !
+### ⚙️ Programming languages and tools !
+
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/)
+
+### 📄 My latest article !
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0" alt="Recent Article 0"> 
