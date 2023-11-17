@@ -55,4 +55,4 @@ I am also a medium member who like to write about AI specifically, and computer 
 
 If you have a question, a suggestion or an advice, I'd love to discuss ! 💬
 
-<p style="text-align: center">Credits : <a href="https://github.com/NourOM02" style="text-decoration: none;">@NourOM02</a></p>
+<p align="center">Credits : <a href="https://github.com/NourOM02" style="text-decoration: none;">@NourOM02</a></p>
