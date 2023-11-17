@@ -14,7 +14,7 @@ I am also a medium member who like to write about AI specifically, and computer 
 
 ### 🔗 Connect with me !
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Python" height="25" style="vertical-align:top; margin:4px"><span>Nour Oulad Moussa</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Python" height="25" style="vertical-align:top; margin:4px"><span style="padding-bottom:10px;">Nour Oulad Moussa</span>
 </p>
 
 
