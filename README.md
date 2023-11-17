@@ -13,8 +13,9 @@ I like to organize my things 🤓 and have a vision about the future 👁️, wh
 I am also a medium member who like to write about AI specifically, and computer science generally ⌨️
 
 ### 🔗 Connect with me !
+
 <p>
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt="LINKEDIN" height=25 style= "vertical-align:top; margin:4px>
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt="LINKEDIN" height=25 style= "vertical-align:top; margin:4px">
 </p>
 
 ### ⚙️ Programming languages and tools !
