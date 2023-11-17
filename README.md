@@ -13,9 +13,11 @@ I like to organize my things 🤓 and have a vision about the future 👁️, wh
 I am also a medium member who like to write about AI specifically, and computer science generally ⌨️
 
 ### 🔗 Connect with me !
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Python" height="25" style="vertical-align:top; margin:4px"><span style="padding-bottom:10px;">Nour Oulad Moussa</span>
-</p>
+
+<div class="container" style="display: flex;align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Your Image" class="image" style="max-width: 25px; margin-right: 10px;">
+  <p>Nour Oulad Moussa</p>
+</div>
 
 
 ### ⚙️ Programming languages and tools !
