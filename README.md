@@ -15,7 +15,7 @@ I am also a medium member who like to write about AI specifically, and computer 
 ### 🔗 Connect with me !
 
 <div class="container" style="display: flex;align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Your Image" class="image" style="max-width: 25px; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Your Image" class="image" width = 25 style="max-width: 25px; margin-right: 10px;">
   <p>Nour Oulad Moussa</p>
 </div>
 
