@@ -13,11 +13,11 @@ I like to organize my things 🤓 and have a vision about the future 👁️, wh
 I am also a medium member who like to write about AI specifically, and computer science generally ⌨️
 
 ### 🔗 Connect with me !
-
-<div class="container" style="display: flex;align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Your Image" class="image" width = 25 style="max-width: 25px; margin-right: 10px;">
-  <p>Nour Oulad Moussa</p>
-</div>
+<p>
+<a href="https://www.linkedin.com/in/nour-oulad-moussa-678882190/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LINKEDIN" height="25" style="vertical-align:top; margin:4px"></a>
+<a href="https://medium.com/@nour.oulad.moussa"><img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="MEDIUM" height="25" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:nourom.professional@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="MEDIUM" height="25" style="vertical-align:top; margin:4px"></a>
+</p>
 
 
 ### ⚙️ Programming languages and tools !
