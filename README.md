@@ -47,9 +47,16 @@ I am also a medium member who like to write about AI specifically, and computer 
 
 </p>
 
-### 📄 My latest article !
+### 📄 My latest articles !
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0" alt="Recent Article 0"> 
+<div style="display: flex;">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/0" alt="Recent Article 0">
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour.oulad.moussa/1" alt="Recent Article 1">
+  </a>
+</div>
 
 ### 🤗 Something to add !
 
